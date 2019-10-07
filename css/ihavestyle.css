@@ -1,0 +1,53 @@
+h1{
+	color: red;
+}
+
+h2{
+	color: blue;
+}
+
+body{
+	background-color:white;
+}
+
+#headSvg{
+	margin: 4px 4px 4px 4px;
+    height: 203px;
+    width: 207px
+}
+
+#noseSvg{
+	margin: 3px 17px 50px -689px;
+    height: 60px;
+    width: 61px;
+}
+
+#smallNoseSvg{
+	margin: 10px 10px 61px -66px;
+    height: 43px;
+    width: 46px;
+}
+
+#rightEyeSvg{
+	position: absolute;
+    width: 43px;
+    height: 42px;
+    left: 50px;
+    margin: 21px 3px;
+
+}
+
+#leftEyeSvg{
+	
+
+}
+
+#LeftEarSvg{
+	
+
+}
+
+#rightEarSvg{
+	
+
+}
